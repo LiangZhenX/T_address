@@ -212,3 +212,223 @@ http://4iptv.xyz:8080/IvanC10/5RVePcKFMFGG/154014
 http://abc123.digital:8080/R9YN4ecdXe/Zpe9M7mxtq/496756
 #EXTINF:-1 tvg-name="Ziggo Sport 4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ziggo.png" group-title="4K频道",Ziggo Sport 4K
 http://live.iptvtotaal.com:8000/awpreneniptv/09HZaVeOmh/20560
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://epg.112114.xyz/logo/北京新闻.png" group-title="北京",北京新闻
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappxinwen.m3u8
+#EXTINF:-1,tvg-id="北京卡酷" tvg-name="北京卡酷" tvg-logo="https://epg.112114.xyz/logo/北京卡酷.png" group-title="北京",北京卡酷
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappkaku.m3u8
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",北京科教
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappkejiao.m3u8
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://epg.112114.xyz/logo/北京文艺.png" group-title="北京",北京文艺
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappwenyi.m3u8
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappyingshi.m3u8
+#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://epg.112114.xyz/logo/北京财经.png" group-title="北京",北京财经
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappcaijing.m3u8
+#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://epg.112114.xyz/logo/北京生活.png" group-title="北京",北京生活
+https://downlive.brtvcloud.com/brtv8kapptv/brtv8kappshenghuo.m3u8
+#EXTINF:-1,tvg-id="庆余年" tvg-name="庆余年" tvg-logo="https://epg.112114.xyz/logo/庆余年.png" group-title="虎牙",庆余年
+http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="音乐榜" tvg-name="音乐榜" tvg-logo="https://epg.112114.xyz/logo/音乐榜.png" group-title="虎牙",音乐榜
+http://txtest-xp2p.p2p.huya.com/src/1099531740260-1099531740260-86382461021323264-2199063603976-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="音乐小石榴" tvg-name="音乐小石榴" tvg-logo="https://epg.112114.xyz/logo/音乐小石榴.png" group-title="虎牙",音乐小石榴
+http://txtest-xp2p.p2p.huya.com/src/1199512344405-1199512344405-5224693802798678016-2399024812266-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="女神上海" tvg-name="女神上海" tvg-logo="https://epg.112114.xyz/logo/女神上海.png" group-title="上海",女神上海
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1,tvg-id="星光影视" tvg-name="星光影视" tvg-logo="https://epg.112114.xyz/logo/星光影视.png" group-title="虎牙",星光影视
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="虎牙",电影
+http://txtest-xp2p.p2p.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="地下交通站" tvg-name="地下交通站" tvg-logo="https://epg.112114.xyz/logo/地下交通站.png" group-title="虎牙",地下交通站
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="小猪佩奇" tvg-name="小猪佩奇" tvg-logo="https://epg.112114.xyz/logo/小猪佩奇.png" group-title="虎牙",小猪佩奇
+http://baiducdncmn2.inter.iqiyi.com/tslive/c53_lb_78_1080P_t10/c53_lb_78_1080P_t10.m3u8
+#EXTINF:-1,tvg-id="哆啦A梦" tvg-name="哆啦A梦" tvg-logo="https://epg.112114.xyz/logo/哆啦A梦.png" group-title="虎牙",哆啦A梦
+http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://epg.112114.xyz/logo/中华小当家.png" group-title="虎牙",中华小当家
+http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://epg.112114.xyz/logo/蜡笔小新.png" group-title="虎牙",蜡笔小新
+http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+#EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="虎牙",猫和老鼠
+http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://epg.112114.xyz/logo/海绵宝宝.png" group-title="虎牙",海绵宝宝
+http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/成龙历险记.png" group-title="虎牙",成龙历险记
+http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="路飞海盗" tvg-name="路飞海盗" tvg-logo="https://epg.112114.xyz/logo/路飞海盗.png" group-title="虎牙",路飞海盗
+http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="小品" tvg-name="小品" tvg-logo="https://epg.112114.xyz/logo/小品.png" group-title="虎牙",小品
+http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://epg.112114.xyz/logo/猫和老鼠.png" group-title="虎牙",猫和老鼠
+http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="七龙珠改" tvg-name="七龙珠改" tvg-logo="https://epg.112114.xyz/logo/七龙珠改.png" group-title="虎牙",七龙珠改
+http://txtest-xp2p.p2p.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="成龙历险记" tvg-name="成龙历险记" tvg-logo="https://epg.112114.xyz/logo/成龙历险记.png" group-title="虎牙",成龙历险记
+http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="周星驰-粤语" tvg-name="周星驰-粤语" tvg-logo="https://epg.112114.xyz/logo/周星驰粤语.png" group-title="虎牙",周星驰-粤语
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777036638-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="吴孟达" tvg-name="吴孟达" tvg-logo="https://epg.112114.xyz/logo/吴孟达.png" group-title="虎牙",吴孟达
+http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="林正英" tvg-name="林正英" tvg-logo="https://epg.112114.xyz/logo/林正英.png" group-title="虎牙",林正英
+http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="沈腾" tvg-name="沈腾" tvg-logo="https://epg.112114.xyz/logo/沈腾.png" group-title="虎牙",沈腾
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="甄子丹" tvg-name="甄子丹" tvg-logo="https://epg.112114.xyz/logo/甄子丹.png" group-title="虎牙",甄子丹
+http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="成龙作品集" tvg-name="成龙作品集" tvg-logo="https://epg.112114.xyz/logo/成龙作品集.png" group-title="虎牙",成龙
+http://txtest-xp2p.p2p.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="李连杰" tvg-name="李连杰" tvg-logo="https://epg.112114.xyz/logo/李连杰.png" group-title="虎牙",李连杰
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="周润发影院" tvg-name="周润发影院" tvg-logo="https://epg.112114.xyz/logo/周润发影院.png" group-title="虎牙",周润发
+http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="刘德华影院" tvg-name="刘德华影院" tvg-logo="https://epg.112114.xyz/logo/刘德华影院.png" group-title="虎牙",刘德华
+http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="洪金宝" tvg-name="洪金宝" tvg-logo="https://epg.112114.xyz/logo/洪金宝.png" group-title="虎牙",洪金宝
+http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="黄渤" tvg-name="黄渤" tvg-logo="https://epg.112114.xyz/logo/黄渤.png" group-title="虎牙",黄渤
+http://txtest-xp2p.p2p.huya.com/src/1449698962-1449698962-6226409630835146752-2789274564-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="刘家辉" tvg-name="刘家辉" tvg-logo="https://epg.112114.xyz/logo/刘家辉.png" group-title="虎牙",刘家辉
+http://txtest-xp2p.p2p.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="咏春系列" tvg-name="咏春系列" tvg-logo="https://epg.112114.xyz/logo/咏春系列.png" group-title="虎牙",咏春系列
+http://txtest-xp2p.p2p.huya.com/src/1448737814-1448737814-6222281531608530944-2777037662-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="黑帮系列" tvg-name="黑帮系列" tvg-logo="https://epg.112114.xyz/logo/黑帮系列.png" group-title="虎牙",黑帮系列
+http://txtest-xp2p.p2p.huya.com/src/1388472589-1388472589-5963444361147449344-2777068634-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="古墓系列" tvg-name="古墓系列" tvg-logo="https://epg.112114.xyz/logo/古墓系列.png" group-title="虎牙",古墓系列
+http://txtest-xp2p.p2p.huya.com/src/1423782085-1423782085-6115097491705692160-2847687626-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="赛车系列" tvg-name="赛车系列" tvg-logo="https://epg.112114.xyz/logo/赛车系列.png" group-title="虎牙",赛车系列
+http://txtest-xp2p.p2p.huya.com/src/1354978385-1354978385-5819587850361896960-2710080226-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="警匪系列" tvg-name="警匪系列" tvg-logo="https://epg.112114.xyz/logo/警匪系列.png" group-title="虎牙",警匪系列
+http://txtest-xp2p.p2p.huya.com/src/1449581589-1449581589-6225905517638713344-3048959636-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://epg.112114.xyz/logo/NEWTV中国功夫.png" group-title="虎牙",中国功夫
+http://txtest-xp2p.p2p.huya.com/src/1448738174-1448738174-6222283077796757504-2847699112-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="喜剧系列" tvg-name="喜剧系列" tvg-logo="https://epg.112114.xyz/logo/喜剧系列.png" group-title="虎牙",喜剧系列
+http://txtest-xp2p.p2p.huya.com/src/1524434089-1524434089-6547394557162553344-3048991634-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="动作大片" tvg-name="动作大片" tvg-logo="https://epg.112114.xyz/logo/动作大片.png" group-title="虎牙",动作大片
+http://txtest-xp2p.p2p.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="玄幻系列" tvg-name="玄幻系列" tvg-logo="https://epg.112114.xyz/logo/玄幻系列.png" group-title="虎牙",玄幻系列
+http://txtest-xp2p.p2p.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="古装武侠" tvg-name="古装武侠" tvg-logo="https://epg.112114.xyz/logo/古装武侠.png" group-title="虎牙",古装武侠
+http://txtest-xp2p.p2p.huya.com/src/1394575562-1394575562-5989656430590820352-2789274580-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="香港女神系列" tvg-name="香港女神系列" tvg-logo="https://epg.112114.xyz/logo/香港女神系列.png" group-title="香港",香港女神系列
+http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="王晶导演" tvg-name="王晶导演" tvg-logo="https://epg.112114.xyz/logo/王晶导演.png" group-title="虎牙",王晶导演
+http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="历年贺岁大片" tvg-name="历年贺岁大片" tvg-logo="https://epg.112114.xyz/logo/历年贺岁大片.png" group-title="虎牙",历年贺岁大片
+http://txtest-xp2p.p2p.huya.com/src/1524418118-1524418118-6547325962239868928-3048959692-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="金庸武侠系列" tvg-name="金庸武侠系列" tvg-logo="https://epg.112114.xyz/logo/金庸武侠系列.png" group-title="虎牙",金庸武侠系列
+http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="核桃姐姐 李连杰系列 武打高产王[1280*688]" tvg-name="核桃姐姐 李连杰系列 武打高产王[1280*688]" tvg-logo="https://epg.112114.xyz/logo/核桃姐姐李连杰系列武打高产王.png" group-title="虎牙",核桃姐姐 李连杰系列 武打高产王[1280*688]
+http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="Z" tvg-name="Z" tvg-logo="https://epg.112114.xyz/logo/Z.png" group-title="河南",Mz芒果 【赌神】周润发、./河南主[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1199587939476-1199587939476-5549372160482476032-2399176002408-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="虎牙影院 【虎牙影院】沈腾经典片放映[1920*796]" tvg-name="虎牙影院 【虎牙影院】沈腾经典片放映[1920*796]" tvg-logo="https://epg.112114.xyz/logo/虎牙影院【虎牙影院】沈腾经典片放映.png" group-title="虎牙",虎牙影院 【虎牙影院】沈腾经典片放映[1920*796]
+http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34[1280*720]" tvg-name="斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34[1280*720]" tvg-logo="https://epg.112114.xyz/logo/斌哥漫说【死神】护廷十三队出现危机！所有队长全被掉包！34.png" group-title="虎牙",斌哥漫说 【死神】护廷十三队出现危机！所有队长全被掉包！34[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1199516152253-1199516152253-5241048385426817024-2399032427962-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="胖虎噜噜噜 最后的假日[1920*1080]" tvg-name="胖虎噜噜噜 最后的假日[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/胖虎噜噜噜最后的假日.png" group-title="虎牙",胖虎噜噜噜 最后的假日[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199527202658-1199527202658-5288509513509371904-2399054528772-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="瞬间爆炸 身世神秘的范闲书写人生传奇[1920*1080]" tvg-name="瞬间爆炸 身世神秘的范闲书写人生传奇[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/瞬间爆炸身世神秘的范闲书写人生传奇.png" group-title="虎牙",瞬间爆炸 身世神秘的范闲书写人生传奇[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1423787860-1423787860-6115122295141826560-2847699176-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？[1920*1080]" tvg-name="大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/大象放映室豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？.png" group-title="虎牙",大象放映室 豆瓣8.4，你年少时暗恋的那个TA，现在过得怎么样？[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199531762115-1199531762115-5308092232211890176-2399063647686-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦[1920*1080]" tvg-name="大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/大梦电影《信号》想知道一百种信号是干嘛的吗，准备好啦.png" group-title="虎牙",大梦电影 《信号100》想知道一百种信号是干嘛的吗，准备好啦[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199573065336-1199573065336-5485488215626350592-2399146254128-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》[1920*886]" tvg-name="扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》[1920*886]" tvg-logo="https://epg.112114.xyz/logo/扁豆看电影太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》.png" group-title="虎牙",扁豆看电影 太敢拍了！国产神片，看一部少一部《背靠背，脸对脸》[1920*886]
+http://txtest-xp2p.p2p.huya.com/src/94525224-2703099090-11609722189397360640-4587890396-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="痞子帅叔叔 【超级交通站】抗ri情景喜剧[448*336]" tvg-name="痞子帅叔叔 【超级交通站】抗ri情景喜剧[448*336]" tvg-logo="https://epg.112114.xyz/logo/痞子帅叔叔【超级交通站】抗RI情景喜剧.png" group-title="虎牙",痞子帅叔叔 【超级交通站】抗ri情景喜剧[448*336]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274572-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02[1920*1080]" tvg-name="狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/狗哥吃火锅【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02.png" group-title="虎牙",狗哥吃火锅 【火影重置版04】力量暴增！佐助获得咒印力量！动画——中忍考试篇02[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199512574006-1199512574006-5225679931584806912-2399025271468-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="枫哥视 飞出个未来[1920*1080]" tvg-name="枫哥视 飞出个未来[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/枫哥视飞出个未来.png" group-title="虎牙",枫哥视 飞出个未来[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199579767212-1199579767212-5514272553868197888-2399159657880-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="我是詹密 雍正皇帝的风云一生[640*480]" tvg-name="我是詹密 雍正皇帝的风云一生[640*480]" tvg-logo="https://epg.112114.xyz/logo/我是詹密雍正皇帝的风云一生.png" group-title="虎牙",我是詹密 雍正皇帝的风云一生[640*480]
+http://txtest-xp2p.p2p.huya.com/src/1448738195-1448738195-6222283167991070720-2789274594-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="利世-余小二 【龙珠超动画】召开力之大会32[1280*720]" tvg-name="利世-余小二 【龙珠超动画】召开力之大会32[1280*720]" tvg-logo="https://epg.112114.xyz/logo/利世余小二【龙珠超动画】召开力之大会32.png" group-title="虎牙",利世-余小二 【龙珠超动画】召开力之大会32[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/146501201-146501201-629217867119722496-293125858-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="鱼塘塘主张年年 新水hu·在下正是西公子！[1104*622]" tvg-name="鱼塘塘主张年年 新水hu·在下正是西公子！[1104*622]" tvg-logo="https://epg.112114.xyz/logo/鱼塘塘主张年年新水HU·在下正是西公子！.png" group-title="虎牙",鱼塘塘主张年年 新水hu·在下正是西公子！[1104*622]
+http://txtest-xp2p.p2p.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="领带哥 许三多军营成长史[624*336]" tvg-name="领带哥 许三多军营成长史[624*336]" tvg-logo="https://epg.112114.xyz/logo/领带哥许三多军营成长史.png" group-title="虎牙",领带哥 许三多军营成长史[624*336]
+http://txtest-xp2p.p2p.huya.com/src/1394575555-1394575555-5989656400526049280-2789274566-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="维达人 RM 刘在石李光洙跑男[1280*720]" tvg-name="维达人 RM 刘在石李光洙跑男[1280*720]" tvg-logo="https://epg.112114.xyz/logo/维达人RM刘在石李光洙跑男.png" group-title="虎牙",维达人 RM 刘在石李光洙跑男[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2777071322-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="裸奔的蜗牛╮ 康熙·民间私访[720*528]" tvg-name="裸奔的蜗牛╮ 康熙·民间私访[720*528]" tvg-logo="https://epg.112114.xyz/logo/裸奔的蜗牛╮康熙·民间私访.png" group-title="虎牙",裸奔的蜗牛╮ 康熙·民间私访[720*528]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789274536-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="摄氏零度 易中天品三国[768*576]" tvg-name="摄氏零度 易中天品三国[768*576]" tvg-logo="https://epg.112114.xyz/logo/摄氏零度易中天品三国.png" group-title="虎牙",摄氏零度 易中天品三国[768*576]
+http://txtest-xp2p.p2p.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="柯冉冉 龙men·老奸巨猾年掌柜[960*540]" tvg-name="柯冉冉 龙men·老奸巨猾年掌柜[960*540]" tvg-logo="https://epg.112114.xyz/logo/柯冉冉龙MEN·老奸巨猾年掌柜.png" group-title="虎牙",柯冉冉 龙men·老奸巨猾年掌柜[960*540]
+http://txtest-xp2p.p2p.huya.com/src/1449698121-1449698121-6226406018767650816-2847687516-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="萌新司机 大秦，终章！[1920*1080]" tvg-name="萌新司机 大秦，终章！[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/萌新司机大秦，终章！.png" group-title="虎牙",萌新司机 大秦，终章！[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1449698864-1449698864-6226409209928351744-2847687540-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="实力拔萝卜 搞笑恐怖类 弹幕护体[672*374]" tvg-name="实力拔萝卜 搞笑恐怖类 弹幕护体[672*374]" tvg-logo="https://epg.112114.xyz/logo/实力拔萝卜搞笑恐怖类弹幕护体.png" group-title="虎牙",实力拔萝卜 搞笑恐怖类 弹幕护体[672*374]
+http://txtest-xp2p.p2p.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="Wang-我的女人 康熙大帝的传奇一生[720*528]" tvg-name="Wang-我的女人 康熙大帝的传奇一生[720*528]" tvg-logo="https://epg.112114.xyz/logo/WANG我的女人康熙大帝的传奇一生.png" group-title="虎牙",Wang-我的女人 康熙大帝的传奇一生[720*528]
+http://txtest-xp2p.p2p.huya.com/src/1448737923-1448737923-6222281999759966208-2847699110-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="我们都爱笑 网球王子·动画费德勒看了想打人[640*480]" tvg-name="我们都爱笑 网球王子·动画费德勒看了想打人[640*480]" tvg-logo="https://epg.112114.xyz/logo/我们都爱笑网球王子·动画费德勒看了想打人.png" group-title="虎牙",我们都爱笑 网球王子·动画费德勒看了想打人[640*480]
+http://txtest-xp2p.p2p.huya.com/src/1423782044-1423782044-6115097315612033024-2847687544-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友[1920*1080]" tvg-name="电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/电影最TOP电影最TOP:被歌唱事业耽误的帝——张学友.png" group-title="虎牙",电影最TOP 电影最TOP 151: 被歌唱事业耽误的帝——张学友[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/94525224-2672048638-11476361513531342848-3153216706-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="力哥視 恐怖电影找力哥[1920*1080]" tvg-name="力哥視 恐怖电影找力哥[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/力哥視恐怖电影找力哥.png" group-title="虎牙",力哥視 恐怖电影找力哥[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199557791348-1199557791348-5419886936686854144-2399115706152-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="老司机 成龍历险记·动画社会我阿福乌鸦坐飞机[524*360]" tvg-name="老司机 成龍历险记·动画社会我阿福乌鸦坐飞机[524*360]" tvg-logo="https://epg.112114.xyz/logo/老司机成龍历险记·动画社会我阿福乌鸦坐飞机.png" group-title="虎牙",老司机 成龍历险记·动画社会我阿福乌鸦坐飞机[524*360]
+http://txtest-xp2p.p2p.huya.com/src/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞[848*480]" tvg-name="會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞[848*480]" tvg-logo="https://epg.112114.xyz/logo/會唱歌的小野貓胡八一胖子沙漠古城找鬼洞.png" group-title="虎牙",會唱歌的小野貓 胡八一胖子沙漠古城找鬼洞[848*480]
+http://txtest-xp2p.p2p.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受[1920*1080]" tvg-name="止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/止戈电影豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受.png" group-title="虎牙",止戈电影 豆瓣8.2，一部黑暗到骨子里的悬疑片，不是所有真相都能被接受[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199522933703-1199522933703-5270174491396276224-2399045990862-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！[1920*1080]" tvg-name="非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/非凡武林碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！.png" group-title="虎牙",非凡武林 碧血剑8：袁承志闯荡江湖大战青竹帮，混元功显威，经典之战！[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1279520922847-1279520922847-16817528283867381760-2559041969150-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？[1280*720]" tvg-name="昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？[1280*720]" tvg-logo="https://epg.112114.xyz/logo/昵称违规QQFBPXWM1A狄仁杰：元芳你怎么看？.png" group-title="虎牙",昵称违规-QQFbPxwM1A 狄仁杰：元芳 你怎么看？[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1423787855-1423787855-6115122273666990080-2847699166-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="南西视频 动画路飞带领大家向顶上前进[1920*1080]" tvg-name="南西视频 动画路飞带领大家向顶上前进[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/南西视频动画路飞带领大家向顶上前进.png" group-title="虎牙",南西视频 动画路飞带领大家向顶上前进[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="凌莲 你怎么看待六子哥[720*400]" tvg-name="凌莲 你怎么看待六子哥[720*400]" tvg-logo="https://epg.112114.xyz/logo/凌莲你怎么看待六子哥.png" group-title="虎牙",凌莲 你怎么看待六子哥[720*400]
+http://txtest-xp2p.p2p.huya.com/src/1524439854-1524439854-6547419317649014784-3049003164-10057-A-0-1-imgplus.xs
+#EXTINF:-1,tvg-id="铁血真汉子 国产悬疑精选·智商在线[1920*720]" tvg-name="铁血真汉子 国产悬疑精选·智商在线[1920*720]" tvg-logo="https://epg.112114.xyz/logo/铁血真汉子国产悬疑精选·智商在线.png" group-title="虎牙",铁血真汉子 国产悬疑精选·智商在线[1920*720]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="No1常在心 搞笑的一家人[480*384]" tvg-name="No1常在心 搞笑的一家人[480*384]" tvg-logo="https://epg.112114.xyz/logo/NO1常在心搞笑的一家人.png" group-title="虎牙",No1常在心 搞笑的一家人[480*384]
+http://txtest-xp2p.p2p.huya.com/src/1394565211-1394565211-5989611973384339456-2789253878-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="种瓜得弟弟 夏雪夏雨夏冰雹[640*480]" tvg-name="种瓜得弟弟 夏雪夏雨夏冰雹[640*480]" tvg-logo="https://epg.112114.xyz/logo/种瓜得弟弟夏雪夏雨夏冰雹.png" group-title="虎牙",种瓜得弟弟 夏雪夏雨夏冰雹[640*480]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-2847687508-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="加班狗 yi馆笑传 oh长地久[1280*720]" tvg-name="加班狗 yi馆笑传 oh长地久[1280*720]" tvg-logo="https://epg.112114.xyz/logo/加班狗YI馆笑传OH长地久.png" group-title="虎牙",加班狗 yi馆笑传 oh长地久[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1449698185-1449698185-6226406293645557760-2847687566-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="大侠 快来追！yang光的快乐生活[640*480]" tvg-name="大侠 快来追！yang光的快乐生活[640*480]" tvg-logo="https://epg.112114.xyz/logo/大侠快来追！YANG光的快乐生活.png" group-title="虎牙",大侠 快来追！yang光的快乐生活[640*480]
+http://txtest-xp2p.p2p.huya.com/src/1250011-1250011-5368756364640256-3049003162-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨[1280*720]" tvg-name="二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨[1280*720]" tvg-logo="https://epg.112114.xyz/logo/二次元控丐帮帮主乔峰驾到·樊少皇老戏骨.png" group-title="虎牙",二次元控 丐帮帮主乔峰驾到·樊少皇老戏骨[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1423782083-1423782083-6115097483115757568-2847687622-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="成长学院 中国通史-上下五千年[1920*1080]" tvg-name="成长学院 中国通史-上下五千年[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/成长学院中国通史上下五千年.png" group-title="虎牙",成长学院 中国通史-上下五千年[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1099531752680-1099531752680-86435804515139584-2199063628816-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="北岛南城 产科共同见证生与si[720*541]" tvg-name="北岛南城 产科共同见证生与si[720*541]" tvg-logo="https://epg.112114.xyz/logo/北岛南城产科共同见证生与SI.png" group-title="虎牙",北岛南城 产科共同见证生与si[720*541]
+http://txtest-xp2p.p2p.huya.com/src/1524418076-1524418076-6547325781851242496-3048959608-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4[1920*1080]" tvg-name="缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/缔爵丶小阿杜《龙珠超动画》一口气看完龙珠超4.png" group-title="虎牙",缔爵丶小阿杜 《龙珠超动画》一口气看完龙珠超4[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/2293333915-2293333915-9849794163732643840-4586791286-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="呆萌小岳岳 一代枭雄为报父仇励精图治[1280*720]" tvg-name="呆萌小岳岳 一代枭雄为报父仇励精图治[1280*720]" tvg-logo="https://epg.112114.xyz/logo/呆萌小岳岳一代枭雄为报父仇励精图治.png" group-title="虎牙",呆萌小岳岳 一代枭雄为报父仇励精图治[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1394565206-1394565206-5989611951909502976-2789253868-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="小妖孽 在哪儿跌倒的还得在哪儿爬起来[1920*1072]" tvg-name="小妖孽 在哪儿跌倒的还得在哪儿爬起来[1920*1072]" tvg-logo="https://epg.112114.xyz/logo/小妖孽在哪儿跌倒的还得在哪儿爬起来.png" group-title="虎牙",小妖孽 在哪儿跌倒的还得在哪儿爬起来[1920*1072]
+http://txtest-xp2p.p2p.huya.com/src/1449584504-1449584504-6225918037468381184-3049003172-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="茱麗葉 葛二蛋成长之路[852*480]" tvg-name="茱麗葉 葛二蛋成长之路[852*480]" tvg-logo="https://epg.112114.xyz/logo/茱麗葉葛二蛋成长之路.png" group-title="虎牙",茱麗葉 葛二蛋成长之路[852*480]
+http://txtest-xp2p.p2p.huya.com/src/1524439832-1524439832-6547419223159734272-3049003120-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事[448*336]" tvg-name="HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事[448*336]" tvg-logo="https://epg.112114.xyz/logo/HELLOKITTY【猫和老鼠动画】汤姆和杰瑞的故事.png" group-title="虎牙",HelloKitty 【猫和老鼠动画】汤姆和杰瑞的故事[448*336]
+http://txtest-xp2p.p2p.huya.com/src/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首[1920*1080]" tvg-name="阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/阿良说剧绝命毒师516，老白铲除了所有威胁，最终带着遗憾自首.png" group-title="虎牙",阿良说剧 绝命毒师5-16，老白铲除了所有威胁，最终带着遗憾自首[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199526558405-1199526558405-5285742467944022016-2399053240266-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="DD-解说 新七龙珠动画，武林大会[1920*1080]" tvg-name="DD-解说 新七龙珠动画，武林大会[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/DD解说新七龙珠动画，武林大会.png" group-title="虎牙",DD-解说 新七龙珠动画，武林大会[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199588542242-1199588542242-5551961020739616768-2399177207940-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="全优少年 【经典】桃园结义三兄弟[1293*736]" tvg-name="全优少年 【经典】桃园结义三兄弟[1293*736]" tvg-logo="https://epg.112114.xyz/logo/全优少年【经典】桃园结义三兄弟.png" group-title="虎牙",全优少年 【经典】桃园结义三兄弟[1293*736]
+http://txtest-xp2p.p2p.huya.com/src/1524439845-1524439845-6547419278994309120-3049003146-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="荒野达人 芈月和她的三个爱人[1280*720]" tvg-name="荒野达人 芈月和她的三个爱人[1280*720]" tvg-logo="https://epg.112114.xyz/logo/荒野达人芈月和她的三个爱人.png" group-title="虎牙",荒野达人 芈月和她的三个爱人[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1423787884-1423787884-6115122398221041664-2847699224-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="大鱼爱路飞 动画7四战快看系列【21-24】[1280*720]" tvg-name="大鱼爱路飞 动画7四战快看系列【21-24】[1280*720]" tvg-logo="https://epg.112114.xyz/logo/大鱼爱路飞动画7四战快看系列【2124】.png" group-title="虎牙",大鱼爱路飞 动画7四战快看系列【21-24】[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1199590495159-1199590495159-5560348735386419200-2399181113774-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门[1920*1080]" tvg-name="糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/糊了的胡萝卜动画【速看足球小将16期】南葛遭遇强敌小翼尝试曲线射门.png" group-title="虎牙",糊了的胡萝卜动画 【速看-足球小将16期】南葛遭遇强敌-小翼尝试曲线射门[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/2391983955-2391983955-10273492859281735680-4784091366-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.112114.xyz/logo/茶.png" group-title="虎牙",喝一碗杏仁茶 动画奥特曼中那些你不知道的秘密！[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1099531752759-1099531752759-86436143817555968-2199063628974-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地[1920*1080]" tvg-name="良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地[1920*1080]" tvg-logo="https://epg.112114.xyz/logo/良少聊漫威《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地.png" group-title="虎牙",良少聊漫威 《蜘蛛侠英雄远征》，神秘客的阴险狡诈，让蜘蛛侠陷入众矢之地[1920*1080]
+http://txtest-xp2p.p2p.huya.com/src/1199582668017-1199582668017-5526731416475271168-2399165459490-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎[1280*720]" tvg-name="楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎[1280*720]" tvg-logo="https://epg.112114.xyz/logo/楚门聊电影一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎.png" group-title="虎牙",楚门聊电影 一道闪电劈中火箭，导致火箭意外发射《美剧》天蝎[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/2322561713-2322561713-9975326600276738048-4645246882-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年[1280*720]" tvg-name="Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年[1280*720]" tvg-logo="https://epg.112114.xyz/logo/ADAM短发海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年.png" group-title="虎牙",Adam短发 海贼王我抢了尾田的笔：动画从奥哈拉屠魔令到空白的一百年[1280*720]
+http://txtest-xp2p.p2p.huya.com/src/1199532313878-1199532313878-5310462036252033024-2399064751212-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="樹袋熊小九九 【五福星】每天都要快乐哦[864*464]" tvg-name="樹袋熊小九九 【五福星】每天都要快乐哦[864*464]" tvg-logo="https://epg.112114.xyz/logo/樹袋熊小九九【五福星】每天都要快乐哦.png" group-title="虎牙",樹袋熊小九九 【五福星】每天都要快乐哦[864*464]
+http://txtest-xp2p.p2p.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.xs
+#EXTINF:-1,tvg-id="女神经典" tvg-name="女神经典" tvg-logo="https://epg.112114.xyz/logo/女神经典.png" group-title="虎牙",女神经典
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
